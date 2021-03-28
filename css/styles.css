@@ -152,13 +152,13 @@ mix-blend-mode: color;
     width: 50%;
 }
   .info{
-    height: 443px;
+    height: 700px;
 
   }
   .content{
     position: relative;
 top: -51px;
-    font-size: 11px;
+    font-size: 13px;
   }
 .parallax1{
   height:50vh;
