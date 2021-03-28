@@ -158,7 +158,7 @@ mix-blend-mode: color;
   .content{
     position: relative;
 top: -51px;
-    font-size: 13px;
+font-size: 13px;
   }
 .parallax1{
   height:50vh;
