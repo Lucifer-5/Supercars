@@ -161,7 +161,9 @@ top: -51px;
 font-size: 13px;
   }
 .parallax1{
-  
+
+  background: url("../images/supercars.png");
+  height: 38vh;
 }
 .parallax-container {
         height: 70vh;
