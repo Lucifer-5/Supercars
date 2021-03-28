@@ -144,8 +144,8 @@ mix-blend-mode: color;
   }
 }
 @media screen and (max-width: 968px) {
-  .navbar{
-        flex-wrap: nowrap!important;
+  .navbar-brand{
+        width: 40%;
   }
   .brandimg {
     height: 50%;
